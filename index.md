@@ -181,6 +181,12 @@ eventbrite: 51782146795          # optional: alphanumeric key for Eventbrite reg
 
 <hr/>
 
+<p id="note">
+  <strong>Note:</strong>
+  We will be offering two Software Carpentry Workshops in the month of November. Participants will have the option of registering for the workshop in either the morning or the afternoon for four Fridays throughout the month.  <br/><br/>
+  <strong>We ask that registrants commit to attending at least three out of the four sessions.</strong>
+</p>
+
 {% comment %} 
  SURVEYS - DO NOT EDIT SURVEY LINKS 
 {% endcomment %}
